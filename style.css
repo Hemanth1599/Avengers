@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    padding-top: 10px;
+}
+.mtitle {
+    display: inline;
+    font-size: 24px;
+    color: aliceblue;
+}
+.title2 {
+    background-color: darkslategray;
+}
+img {
+    height: 400px;
+    width: 400px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+h2 {
+    border: solid;
+}
